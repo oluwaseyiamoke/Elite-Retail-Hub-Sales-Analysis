@@ -49,7 +49,7 @@ The dataset used for this analysis includes the following key columns:
 - **Sales Strategy Adjustments:** Modify pricing models and discount structures to improve profit margins.
 
 ## **Dashboard Overview**
-**[Sales Dashboard](salesdashboard.png)** – Interactive Excel visualization
+**[Sales Dashboard](salesdashboard.png)** 
 The interactive **Excel Sales Dashboard** provides:
 - **Sales & Profit Breakdown:** Monthly trends and category contributions.
 - **Salesperson Performance:** Insights into individual sales contributions.
